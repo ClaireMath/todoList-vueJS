@@ -1,18 +1,20 @@
 <template>
   <div >
-  <li>Test 1</li>
+   
+   <li>Test Done</li>
+
   </div>
 </template>
 
 <script>
 
 export default {
-  name: 'TodoListItem',
+  name: 'TodoListItemDone',
   components: {
-    
+    // myInp,
   },
   props: {
-    // task:""
+    
   }
 }
 </script>
